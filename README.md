@@ -66,7 +66,6 @@ What gets submitted as the lab notebook is the `Lab#_Notebook_Templeton.ipynb` f
 - When in doubt, use comments
 - Be sure you are using comments to note what question you're responding to
 - Use comments in Python to note when you are starting a new question (as well as answering a question).
-- 
 
 # Your First Program
 
@@ -154,18 +153,18 @@ because nothing is being done with the string.
 
 ## Variables and Types
 
-13. What are variables in Python?
+12. What are variables in Python?
 - Variables are a "storage location" for holding some value which can be used by a Python script
 - A variable's contents are referred to as its "data"
 - All data has some "type" associated with it
 - We're focusing on a few key data types, but there are <bold>many</bold> different types of data in Python.
   * Consult the [Python.org documentation on data types](https://docs.python.org/3/library/datatypes.html) to learn more.
   
-14. For each of these examples, copy/paste or retype the code to run each mini program (and learn more about Python's functionality and documentation). Experiment, adapt, or modify these samples as you work through the lab procedure.
+13. For each of these examples, copy/paste or retype the code to run each mini program (and learn more about Python's functionality and documentation). Experiment, adapt, or modify these samples as you work through the lab procedure.
 
 ## Numbers
 
-15. An integer is a whole number that does not include any decimal (or fractional) values. A float data type includes decimal (or fractional) values.
+14. An integer is a whole number that does not include any decimal (or fractional) values. A float data type includes decimal (or fractional) values.
 ```python
 # Numbers: Int and Float
 i = 3
@@ -175,7 +174,7 @@ print("j is of type: ", type(j))
 ```
 <blockquote>It may seem odd at first, but in Python, the "equals sign" here does not denote equality. Rather, it is an instruction telling Python to assign the value on its right into the variable on its left.</blockquote>
 
-16. But Python variables can also change their type...
+15. But Python variables can also change their type...
 ```python
 # variable type...can vary
 i = 3
@@ -186,13 +185,13 @@ print("i is of type: ", type(i))
 
 ## Strings
 
-17. A string is a sequence of characters (letters, numbers, symbols, etc.)
+16. A string is a sequence of characters (letters, numbers, symbols, etc.)
 ```python
 s = "Hello world!"
 print(s)
 ```
 
-18. Another example of strings at work, this time using concatenation to join strings.
+17. Another example of strings at work, this time using concatenation to join strings.
 ```python
 myFirstName = "Katherine"
 myLastName = "Walden"
