@@ -7,7 +7,7 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 
 By the end of this lab you will be able to:
 -	Describe the differences between a high-level programming language and machine language
--	Use Repl.it (or another IDE) to write and execute Python programs
+-	Use Jupyter Notebooks to write and execute Python programs
 -	Understand and be able to use core elements of Python syntax (including the `print` command, character strings, and variables)
 
 Python is an object-oriented programming language. It’s comparable to a number of other programming languages, such as Perl, Ruby, or Java. Python is a high-level programming language.
@@ -57,35 +57,32 @@ This lab also incorporates elements of [Corey Pennycuff's](https://www3.nd.edu/~
 
 # How to submit this lab (and show your work)
 
-Moving forward, we'll submit lab notebooks as `.py` files. 
+Moving forward, we'll submit our lab notebooks as `.ipynb` files. 
 
 One option is to have a `.py` file that you use to run code and test programs while working through the lab. When ready to submit the lab notebook, you add comments and remove extraneous materials.
 
-Another option is to have an "official" `.py` file that you are using as a lab notebook (separate from your working/testing file). Use comments in Python to note when you are starting a new question (as well as answering a question).
-  * Example: `Lab5_Notebook_Walden.py`
+You should have an "official" `.ipynb` file that you are using as a lab notebook (separate from your working/testing files). 
+  * Example: `Lab#_Notebook_Templeton.ipynb`
 
-What gets submitted as the lab notebook is the `Lab5_Notebook_Walden.py` file.
+What gets submitted as the lab notebook is the `Lab#_Notebook_Templeton.ipynb` file.
 - When in doubt, use comments
 - Be sure you are using comments to note what question you're responding to
+- Use comments in Python to note when you are starting a new question (as well as answering a question).
+- 
 
 # Your First Program
 
-1. Your first program will contain a single Python statement. Enter the following statement into a new `.py` file (when working in Replit, this could be the `main.py` file). 
+1. The first code chunk of your program will contain a single Python statement. 
 
 <blockquote>Watch out for quotation marks!</blockquote>
 
 ```python
 print ("Welcome to the wild world of computer programming!")
 ```
-2. Save your work as part of the `main.py`. 
 
-<blockquote>When adding new files in Repl.it or writing a Python program from scratch either in a text editor or in a desktop Python IDE, be sure to include the <code>.py</code> file extension, which specifies your file is a Python program.</blockquote>
+2. Run your first program in the jupyter notebook window by clicking the run button in the main toolbar
 
-3. As we discovered in the HTML and CSS lab, one of the features of an IDE is that syntax highlighting, which recognizes the language you are writing in and uses color/font highlighting to visually help you write and understand programs.
-
-4. Run your first program in the Replit terminal window, using the following command: `python main.py`. You can also run the program using "Run"
-
-5. The `print()` function will output the value passed to it, including a string. 
+3. The `print()` function will output the value passed to it, in the form of a string. 
 
 <blockquote>NOTE: If you've previously worked in Python 2, the way Python 3 deals with strings is very different. Consult <a href="https://docs.python.org/3.7/library/string.html#format-string-syntax">Python documentation</a> if needed.</blockquote>
 
@@ -93,17 +90,16 @@ print ("Welcome to the wild world of computer programming!")
 
 # Print Statements & ASCII Art
 
-5. Add a second print statement to your `main.py` program:
+4. You are now in a new code chunk of your jupyter notebook program (all unique/different programs, components, questions, etc. should be in their own code chunk) In this new code chunk print another statement
+
 ```python
 print("Are we having fun yet?")
 ```
-6. Save your program, and run it in the terminal window.
+5. Save your program and run it in the terminal window.
 
-7. Modify your program to include additional lines of text in your output. Note that you can use any punctuation or printable symbol on the keyboard.
+6. Modify your program to include additional lines of text in your output. Note that you can use any punctuation or printable symbol on the keyboard.
 
-8. Start a new file in your repl (remember the `.py` file extension!) to start writing a new program `figure.py`.
-
-9. In your new file, write a program that draws a figure similar to the one below, using a set of `print` commands.
+7. In a new code chunk in your jupyter notebook write a program that draws a figure similar to the one below, using a set of `print` commands.
 ```
            * *
           *   *
@@ -121,9 +117,9 @@ print("Are we having fun yet?")
 ```
 <blockquote>This kind of drawing is called "ASCII Art" since it is made solely with characters in the ASCII character set.</blockquote>
 
-10. Run the `figure.py` program in the terminal.
+8. Save your program and run it in the terminal window.
 
-11. Modify the `figure.py` file to write a program in which you draw your own ASCII art using Python `print` statements. 
+9. In a new code chunk write a program in which you draw your own ASCII art using Python `print` statements. 
 
 <blockquote>Consult the <a href="https://www.asciiart.eu/">ASCII Art Archive</a> for inspiration.</blockquote>
 
@@ -131,9 +127,9 @@ print("Are we having fun yet?")
 
 # Data Types 
 
-11. Python includes a number of different data types, which can be stored as variables.
+10. Python includes a number of different data types, which can be stored as variables.
 
-12. We'll do more with variables later, but for now...
+11. We'll do more with variables later, but first ...
 
 ## Comments
 
