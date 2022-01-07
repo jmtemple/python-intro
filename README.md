@@ -59,8 +59,6 @@ This lab also incorporates elements of [Corey Pennycuff's](https://www3.nd.edu/~
 
 Moving forward, we'll submit our lab notebooks as `.ipynb` files. 
 
-One option is to have a `.py` file that you use to run code and test programs while working through the lab. When ready to submit the lab notebook, you add comments and remove extraneous materials.
-
 You should have an "official" `.ipynb` file that you are using as a lab notebook (separate from your working/testing files). 
   * Example: `Lab#_Notebook_Templeton.ipynb`
 
