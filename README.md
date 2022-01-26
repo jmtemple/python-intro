@@ -131,7 +131,7 @@ print("Are we having fun yet?")
 ## Comments
 
 ```python
-# From Professor Walden: The text of this comment about comments is taken from one of Corey Penneycuff's Elements of Computing I Jupyter notebooks
+# From Professor Templeton: The text of this comment about comments is taken from one of Corey Penneycuff's Elements of Computing I Jupyter notebooks
 
 # I am a comment
 
