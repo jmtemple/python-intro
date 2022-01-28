@@ -193,8 +193,8 @@ print(s)
 
 17. Another example of strings at work, this time using concatenation to join strings.
 ```python
-myFirstName = "Katherine"
-myLastName = "Walden"
+myFirstName = "John"
+myLastName = "Templeton"
 myName = myFirstName + " " + myLastName
 print(myName)
 ```
@@ -287,7 +287,7 @@ print(myName)
  </tr>
  </table
  
-23. A few examples. Remember for each of these examples, copy/paste or retype the code into your `.py` file to run each mini program.
+23. A few examples. Remember for each of these examples, copy/paste or retype the code into your `.ipynb` file to run each mini program.
 
 <blockquote><a href="https://www.w3schools.com/python/python_operators.asp">Click here</a> to learn more about Python Operators, via W3Schools.</blockquote>
 
@@ -451,19 +451,17 @@ In U.S. currency, one dollar ($1.00) equals one hundred (100) cents. The coins u
 - Penny = 1 cent
 
 <blockquote>Note: Consider how store clerks give change to their customers. To be considerate, they always try to give the exact change using the fewest coins possible. It turns out that this can always be done (in U.S. currency) by giving as many quarters as possible, followed by as many dimes as possible, and so on down to pennies.</blockquote>
- 
-<blockquote>Q10: Include a link to your Replit workspace for this lab.</blockquote>
 
 # How to submit this lab (and show your work)
 
-38. Moving forward, lab notebooks will be submitted as `.py` files. 
+38. Moving forward, lab notebooks will be submitted as `.ipynb` files. 
 
-39. One option is to have a `.py` file that you use to run code and test programs while working through the lab. When ready to submit the lab notebook, you add comments and remove extraneous materials.
+39. One option is to have a `.ipynb` file that you use to run code and test programs while working through the lab. When ready to submit the lab notebook, you add comments and remove extraneous materials.
 
-40. Another option is to have an "official" `.py` file that you are using as a lab notebook (separate from your working/testing file). Use comments in Python to note when you are starting a new question (as well as answering a question).
-  * Example: `Lab5_Notebook_Walden.py`
+40. Another option is to have an "official" `.ipynb` file that you are using as a lab notebook (separate from your working/testing file). Use comments in Python to note when you are starting a new question (as well as answering a question).
+  * Example: `Lab5_Notebook_Templeton.ipynb`
 
-41. What gets submitted as the lab notebook is the `Lab5_Notebook_Walden.py` file.
+41. What gets submitted as the lab notebook is the `Lab5_Notebook_Templeton.ipynb` file.
 - When in doubt, use comments
 - Be sure you are using comments to note what question you're responding to
 
@@ -486,5 +484,3 @@ Q7:  Write a program that asks the user to think of a month and then enter the n
 Q8: Write a program that prompts the user to enter a temperature in Fahrenheit, and reports the equivalent temperature in Celsius. Answer to this question includes program + comments that document process and explain your code.
 
 Q9: Write a program that asks the user to input the amount of change your program is to make, and then compute the number of quarters, dimes, nickels, and pennies that produces the correct change with the fewest coins possible. Answer to this question includes program + comments that document process and explain your code.
-
-Q10: Include a link to your Replit workspace for this lab.
