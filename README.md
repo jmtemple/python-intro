@@ -83,7 +83,7 @@ print ("Welcome to the wild world of computer programming!")
 
 <blockquote>NOTE: If you've previously worked in Python 2, the way Python 3 deals with strings is very different. Consult <a href="https://docs.python.org/3.7/library/string.html#format-string-syntax">Python documentation</a> if needed.</blockquote>
 
-<blockquote>Q1: What do you expect to see when you run the <code>main.py</code> program? How does that compare to what happened when you ran the program?</blockquote>
+<blockquote>Q1: What do you expect to see when you run the this code block? How does that compare to what happened when you ran the program?</blockquote>
 
 # Print Statements & ASCII Art
 
@@ -481,7 +481,7 @@ In U.S. currency, one dollar ($1.00) equals one hundred (100) cents. The coins u
 
 Q1: What do you expect to see when you run the program? How does that compare to what happened when you ran the program?
 
-Q2: Describe your experience and process building your own ASCII art. How did you approach the design process? What challenges did you encounter? Include your code as part of this answer.
+Q2: Describe your experience and process building your own ASCII art. How did you approach the design process? What challenges did you encounter? Why/how does this ASCII art represent you? Include your code as part of this answer.
 
 Q3: Describe a scenario or situation in which being able to use Boolean operators when programming in Python would be valuable. What kinds of tasks or programs would require Boolean operators? What would Boolean operators enable you to do?
 
