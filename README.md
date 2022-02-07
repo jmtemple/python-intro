@@ -92,7 +92,7 @@ print ("Welcome to the wild world of computer programming!")
 ```python
 print("Are we having fun yet?")
 ```
-5. Save your program and run it in the terminal window.
+5. Save your program and run it in the jupyter notebook code block
 
 6. Modify your program to include additional lines of text in your output. Note that you can use any punctuation or printable symbol on the keyboard.
 
