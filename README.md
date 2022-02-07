@@ -118,9 +118,21 @@ print("Are we having fun yet?")
 
 9. In a new code chunk write a program in which you draw your own ASCII art using Python `print` statements. 
 
+Make your own ASCII art that represents you for some extra credit points. 
+
+For example: I drew a baseball because I love baseball and I'm a baseball coach. 
+```
+   ____
+ .'    '.              
+/'-....-'\               
+|        |               
+\.-''''-./
+ '.____.' 
+ 
+```
 <blockquote>Consult the <a href="https://www.asciiart.eu/">ASCII Art Archive</a> for inspiration.</blockquote>
 
-<blockquote>Q2: Describe your experience and process building your own ASCII art. How did you approach the design process? What challenges did you encounter? Include your code as part of this answer.</blockquote>
+<blockquote>Q2: Describe your experience and process building your own ASCII art. How did you approach the design process? What challenges did you encounter? Why/how does this ASCII art represent you? Include your code as part of this answer.</blockquote>
 
 # Data Types 
 
